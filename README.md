@@ -1,5 +1,5 @@
-# Project Name
-> Lending Club Case Study.
+# Advanced regression
+> House price prediction
 
 
 ## Table of Contents
@@ -11,15 +11,15 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Upgrad Lending club case study.
-- This repo has the EDa for the case study
-- We tried to find what are the columns efecting the loan default.
-- We used the loan data for this project
+- Upgrad Advanced regression assignment.
+- This repo has the EDA and model building for assignment.
+- We tried to find what are the columns efecting the scales price.
+- We used the house price data for this project
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Please check the ipynd file for the complete analysis.
+- Please check the ipynd file for the complete code and  analysis.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -31,6 +31,7 @@
 - pandas - version 2.0.3
 - matplotlib - version 3.7.2
 - seaborn - version 0.12.2
+- sklearn - version 1.2.1
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
